@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rx-crxsh3r
+- 👀 I’m interested in: App development, data structures and Cybersecurity
+- 🌱 I’m currently learning: Internet security, java, kotlin, javascript and trying to expand my css skills
+- 💞️ I’m looking to collaborate on: C# projects (including applications or games)
+- 📫 How to reach me: You can reach me on email ahmed.ab2824@gmail.com (i try my best to check my messages on a daily basis)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am a second-year college student majoring in software engineering, i am still learning and would appreciate all the help i can recieve. 
